@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculation web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav9480/Calculator.git"
+  },
+  "author": "keshav n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshav9480/Calculator/issues"
+  },
+  "homepage": "https://github.com/keshav9480/Calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
